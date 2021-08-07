@@ -1,2 +1,1 @@
-[{"https://truemirror.site/click.php?key=5b7p0k821gd6bxx47hni&buyer=Bali_MK":"","t":"etgbyhns"},{"https://truemirror.site/click.php?key=0b20et1pn88w56coni0l&buyer=Bali_KOS":"","t":"efaderds"},{"https://truemirror.site/click.php?key=0mpqzqyt84ekdpcuc869&buyer=Bali_AAA":"","t":"euuigs"},{"https://truemirror.site/click.php?key=jci88vp79m9mtms2riky&buyer=Bali_P":"","t":"esplhas"},{"https://truemirror.site/click.php?key=x50171ifdfqfji0wjsc1&buyer=Singapur00001":"","t":"efdfgds"}]
-
+[{"player":"Bars","t":""}]
